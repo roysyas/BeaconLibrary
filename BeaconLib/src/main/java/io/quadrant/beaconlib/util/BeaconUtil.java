@@ -1,4 +1,4 @@
-package io.quadrant.beaconlib;
+package io.quadrant.beaconlib.util;
 
 import android.content.Context;
 import android.content.Intent;

@@ -1,8 +1,8 @@
 apply plugin: 'maven-publish'
 
-def LIB_GROUP_ID = 'io.quadrant.beaconlib'
+def LIB_GROUP_ID = 'com.wolvcast.library'
 def LIB_ARTIFACT_ID = 'beaconlib'
-def LIB_VERSION = '1.0.6'
+def LIB_VERSION = '1.0.9'
 
 publishing {
     repositories {
